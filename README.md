@@ -1,8 +1,8 @@
 # Transporte y Movilidad Argentina *[Transport and Mobility in Argentina]* 
-Planes, datos y otros documentos sobre transporte Argentina *[Plans, data and other documents on transport in Argentina]*
+Planes, datos y otros documentos sobre transporte y movilidad Argentina *[Plans, data and other documents on transport and mobility in Argentina]*
 <b> 
 
-Lista comunitaria de publicaciones, datos y otra información útil sobre transporte y Movilidad en Argentina *[Community list of publications, data and other useful information on transport and mobility in Argentina]* 🚲🚌🚋🌳🚊
+Lista comunitaria de publicaciones, datos y otra información útil sobre transporte y movilidad en Argentina *[Community list of publications, data and other useful information on transport and mobility in Argentina]* 🚲🚌🚋🌳🚊
 </b><br><br> 
 
 
